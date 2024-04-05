@@ -32,15 +32,16 @@ Our project plans to leverage GPT-2, an advanced NLP model originally trained on
 
 
 ## Dataset
+![Experiment platform](https://github.com/stavb2009/OM2SEQ/blob/6ea42dc2063cd3708d465db35cab8aefc5538af1/Experiment%20Platform.jpg "Experiment platform")
 Our study focused on PutEMG dataset: 
 [PutEMG](https://biolab.put.poznan.pl/putemg-dataset/)
 * 44 subjects
 * 8 different hand gestures (classes) + rest, labeled 0-3,6-9,-1
-* collected using 24-elctored matrix, samples in 5120Hz
-* each subject practicipated twice
+* collected using 24-elctored matrix - 24 channels, labeled EMG_1 - EMG_24
+* samples in 5120Hz
 * 394M data points
   
-![Experiment platform](https://github.com/stavb2009/OM2SEQ/blob/6ea42dc2063cd3708d465db35cab8aefc5538af1/Experiment%20Platform.jpg "Experiment platform")
+
 
 ## Prerequisites
 |Library         | Version |
