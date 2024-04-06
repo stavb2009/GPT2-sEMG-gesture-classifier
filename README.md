@@ -11,7 +11,7 @@
 </h1>
   <p align="center">
     <a href="https://github.com/stavb2009">Stav Belyy</a> •
-    <a href="https://github.com/KarpAmit">Yuval Gerzon</a>
+    <a href="https://github.com/yuval-gerzon">Yuval Gerzon</a>
   </p>
 
 Our Project for classifying sEMG signal of hand gestures using transfer learning from GPT2  
