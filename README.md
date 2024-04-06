@@ -79,5 +79,9 @@ Our study focused on PutEMG dataset:
   <img src="https://github.com/stavb2009/OM2SEQ/blob/6373c150ea8c965d4d382ef1f1d9afb8c1da53eb/Accuracy%20graph.png" alt="Train and Test accuracy">
 </div>
 
+<div align="center">
+  <img src="https://github.com/stavb2009/OM2SEQ/blob/969ad3224aace224d99a592c05ae8cfb68faa185/confusion_matrix.png" alt="confusion matrix">
+</div>
+
 
 
