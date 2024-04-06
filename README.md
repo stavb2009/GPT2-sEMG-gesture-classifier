@@ -1,4 +1,10 @@
 # 046211 - GPT2 sEMG gesture classifier 
+
+<div align="center">
+  <img src="https://github.com/stavb2009/OM2SEQ/blob/6ea42dc2063cd3708d465db35cab8aefc5538af1/Experiment%20Platform.jpg" alt="Experiment platform">
+</div>
+
+</h1>
 <h1 align="center">
 
 
@@ -32,7 +38,7 @@ Our project plans to leverage GPT-2, an advanced NLP model originally trained on
 
 
 ## Dataset
-![Experiment platform](https://github.com/stavb2009/OM2SEQ/blob/6ea42dc2063cd3708d465db35cab8aefc5538af1/Experiment%20Platform.jpg "Experiment platform")
+
 Our study focused on PutEMG dataset: 
 [PutEMG](https://biolab.put.poznan.pl/putemg-dataset/)
 * 44 subjects
@@ -40,7 +46,7 @@ Our study focused on PutEMG dataset:
 * collected using 24-elctored matrix - 24 channels, labeled EMG_1 - EMG_24
 * samples in 5120Hz
 * 394M data points
-  
+![Data sample](https://github.com/stavb2009/OM2SEQ/blob/f9cfefd33a30b2a6db82121c7d69268fb1747c56/EMG%20data%20sample.png "Data sample")  
 
 
 ## Prerequisites
@@ -69,7 +75,9 @@ Our study focused on PutEMG dataset:
 ## Running the Network
 
 ## Results
-
+<div align="center">
+  <img src="https://github.com/stavb2009/OM2SEQ/blob/6373c150ea8c965d4d382ef1f1d9afb8c1da53eb/Accuracy%20graph.png" alt="Train and Test accuracy">
+</div>
 
 
 
