@@ -67,12 +67,19 @@ Our study focused on PutEMG dataset:
 |`EMG_03_data.parquet`| sample of the post-processed dataset for training|
 |`best_model.ckpt`| example of a trained model|
 |`Preprocessing.py`| python code for cleaning and XXX the data|
-|`EMG_utils.py`| auxiliary functions|
+|`EMG_utils.py`| auxiliary functions,including training, validation loops and graph builders|
 |`EMG_DATA_LOADER.py`|loading and orgnizing the data for training|
-|`main.py`| XXX|
+|`main.py`| main file|
+|`ENV.py`| pre-declared parameters for the run. user should only change this file for its run|
+|`requirements.txt`| basic python packages requirements|
 
 
 ## Running the Network
+---  Preprocessing  --
+use Preprocessing.py to create your own dataset or use EMG_03_data.parquet as an example.
+
+---  define parameters  ---
+use ENV.py to change parameters, such as location of the dataset, saving directory and model parameters
 
 ## Results
 <div align="center">
