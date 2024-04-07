@@ -75,13 +75,24 @@ Our study focused on PutEMG dataset:
 
 
 ## Running the Network
----  Preprocessing  --
-use Preprocessing.py to create your own dataset or use EMG_03_data.parquet as an example.
+-----  Preprocessing  ----
 
----  define parameters  ---
-use ENV.py to change parameters, such as location of the dataset, saving directory and model parameters
+Use Preprocessing.py to create your own dataset or use EMG_03_data.parquet as an example.
+
+-----  Define parameters  -----
+
+Use ENV.py to change parameters, such as location of the dataset, saving directory and model parameters
+
+-----  Running the code  -----
+
+Use main.py
 
 ## Results
+
+We achived 71.25% accuracy on the test set
+
+#### Example for graph of the Train and Test accuracy:
+
 <div align="center">
   <img src="https://github.com/stavb2009/OM2SEQ/blob/6373c150ea8c965d4d382ef1f1d9afb8c1da53eb/Accuracy%20graph.png" alt="Train and Test accuracy">
 </div>
