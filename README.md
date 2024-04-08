@@ -89,7 +89,7 @@ Use main.py
 
 ## Results
 
-We achived 71.25% accuracy on the test set
+We achived 71.28% accuracy on the test set
 
 #### Example for graph of the Train and Test accuracy:
 
